@@ -1,0 +1,9 @@
+Q1. What is DevOps?
+==> Devops is combination of two words i.e. Development and Operations.
+==> Devops team manage entire development life cycle - planning, development, integrate, testing, deploy 
+    and Operations.
+
+Q2. What is Automation, Scaling, Infrastructure?
+==> Automation ==> It is the process of automating each and every task with reduce human interaction.
+    Scaling ==> increase and descrease the capacity as per requiremets.
+    Infrastructure ==> features and functionalities offered in single platform.
