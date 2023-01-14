@@ -7,3 +7,8 @@ Q2. What is Automation, Scaling, Infrastructure?
 ==> Automation ==> It is the process of automating each and every task with reduce human interaction.
     Scaling ==> increase and descrease the capacity as per requiremets.
     Infrastructure ==> features and functionalities offered in single platform.
+
+Q3. Why DevOps is Important?
+==> Devops helps to manage entire development life cycle.
+    Devops helps to achieve Automation and provide security.
+    Objective of DevOps is faster delivery.
